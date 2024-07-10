@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+ background-color: #fff; 
+ color: black
+font family:space grotesk
+}
+img{
+    max-width:100px;
+    height:auto
+}
+a{
+    text-decoration: none;
+    color: inherit;
+ 
